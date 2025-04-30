@@ -50,7 +50,7 @@
 
 📱 Phone: **+91-9345073259**  
 📧 Email: **gowthamnagappan03@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/gowthamdev)
+🔗 [LinkedIn]([www.linkedin.com/in/gowthamde](https://www.linkedin.com/in/gowthamdev/))
 
 ---
 
