@@ -1,9 +1,5 @@
 # Hi Folks! 👋
 
-<p align="center">
-  <img src="https://www.freepik.com/free-photos-vectors/cartoon-software-engineer" alt="Professional Developer" width="100%" />
-</p>
-
 👨‍💻 I'm passionate about **Software Development**  
 📍 Currently upskilling as a **Full Stack Developer** at **KodNest, Bangalore**
 
