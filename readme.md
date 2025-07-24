@@ -33,6 +33,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm Logo" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+   <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="50" height="50"/>
+
   <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Logo" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux Logo" width="50" height="50"/>
 </p>
