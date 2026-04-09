@@ -1,13 +1,12 @@
 # Hi Folks! 👋
 
-👨‍💻 I'm passionate about **Software Development**  
-📍 Currently upskilling as a **Full Stack Developer** at **KodNest, Bangalore**
+💻 **Passionate Full-Stack Software Engineer** 
 
-🌱 I’m currently diving deep into:  
-- **Data Structures & Algorithms (DSA)**  
-- **System Design**
-   
-⚡ Fun fact: Also learning a new language — **Hindi 🇮🇳**
+☁️ Currently learning **DevOps foundations**, **AWS** & **Cloud Technologies**
+
+🧠 Strong focus on **DSA, System Design** & **Problem Solving**
+
+🚀 Always learning, building, and improving
 
 ---
 
