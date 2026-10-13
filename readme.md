@@ -8,8 +8,8 @@
 **Linux & Systems Engineering**, 
 **DevOps & Cloud Infrastructure: CI/CD, IaC, container orchestration and cloud-native systems**, 
 
-**Algorithms & Problem Solving: Advanced DSA, optimization, and computational thinking**, 
-**System Design: Designing resilient, scalable, and highly available systems.**
+**Algorithms & Problem Solving**: Advanced DSA, optimization, and computational thinking 
+**System Design**: Designing resilient, scalable, and highly available systems
 ---
 
 ## 🛠️ Tech Stack
