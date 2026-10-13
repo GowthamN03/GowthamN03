@@ -6,18 +6,7 @@
 
 🚀 Engineering Focus
 
-Full-Stack Engineering: Architecting performant, production-grade applications.
-
-Backend & Distributed Systems: API design, concurrency, scalability, and reliability.
-
-Linux & Systems Engineering: OS internals, networking, performance, and automation.
-
-DevOps & Cloud Infrastructure: CI/CD, IaC, container orchestration, and cloud-native systems.
-
-Algorithms & Problem Solving: Advanced DSA, optimization, and computational thinking.
-
-System Design: Designing resilient, scalable, and highly available systems.
-
+**Full-Stack Engineering**, **Backend & Distributed Systems**, **Linux & Systems Engineering**, **DevOps & Cloud Infrastructure: CI/CD, IaC, container orchestration, and cloud-native systems**, **Algorithms & Problem Solving: Advanced DSA, optimization, and computational thinking**, **System Design: Designing resilient, scalable, and highly available systems.**
 ---
 
 ## 🛠️ Tech Stack
