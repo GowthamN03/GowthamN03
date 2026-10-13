@@ -2,11 +2,9 @@
 
 💻 **Passionate Full-Stack Software Engineer** 
 
-☁️ Currently learning **DevOps**, **AWS** & **Cloud Technologies**
+🚀 Engineering Focus **Full-Stack Engineering**,
 
-🚀 Engineering Focus
-
-**Full-Stack Engineering**, **Backend & Distributed Systems**, **Linux & Systems Engineering**, **DevOps & Cloud Infrastructure: CI/CD, IaC, container orchestration, and cloud-native systems**, **Algorithms & Problem Solving: Advanced DSA, optimization, and computational thinking**, **System Design: Designing resilient, scalable, and highly available systems.**
+**Backend & Distributed Systems**, **Linux & Systems Engineering**, **DevOps & Cloud Infrastructure: CI/CD, IaC, container orchestration, and cloud-native systems**, **Algorithms & Problem Solving: Advanced DSA, optimization, and computational thinking**, **System Design: Designing resilient, scalable, and highly available systems.**
 ---
 
 ## 🛠️ Tech Stack
