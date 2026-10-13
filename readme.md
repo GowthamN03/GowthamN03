@@ -2,7 +2,7 @@
 
 💻 **Passionate Full-Stack Software Engineer** 
 
-☁️ Currently learning **DevOps foundations**, **AWS** & **Cloud Technologies**
+☁️ Currently learning **DevOps**, **AWS** & **Cloud Technologies**
 
 🧠 Strong focus on **DSA, System Design** & **Problem Solving**
 
