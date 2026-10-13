@@ -4,9 +4,19 @@
 
 ☁️ Currently learning **DevOps**, **AWS** & **Cloud Technologies**
 
-🧠 Strong focus on **DSA, System Design** & **Problem Solving**
+🚀 Engineering Focus
 
-🚀 Always learning, building, and improving
+Full-Stack Engineering: Architecting performant, production-grade applications.
+
+Backend & Distributed Systems: API design, concurrency, scalability, and reliability.
+
+Linux & Systems Engineering: OS internals, networking, performance, and automation.
+
+DevOps & Cloud Infrastructure: CI/CD, IaC, container orchestration, and cloud-native systems.
+
+Algorithms & Problem Solving: Advanced DSA, optimization, and computational thinking.
+
+System Design: Designing resilient, scalable, and highly available systems.
 
 ---
 
